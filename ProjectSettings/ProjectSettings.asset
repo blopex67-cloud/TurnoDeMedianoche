@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productGUID: 2a90a4b4e77e4c54b2082164a14690aa
+  AndroidProfiler: 0
+  companyName: Chapio Dara
+  productName: Turno de Medianoche
+  defaultScreenOrientation: 3
+  allowedAutorotateToPortrait: 0
+  allowedAutorotateToPortraitUpsideDown: 0
+  allowedAutorotateToLandscapeRight: 1
+  allowedAutorotateToLandscapeLeft: 1
+  use32BitDisplayBuffer: 1
+  defaultIsNativeResolution: 1
+  bundleVersion: 0.1.0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 23
+  AndroidTargetSdkVersion: 34
+  AndroidPreferredInstallLocation: 1
+  scriptingBackend: 1
+  il2cppCompilerConfiguration: 0
+  managedStrippingLevel: 1
+  apiCompatibilityLevelPerPlatform:
+    Android: 6
+  applicationIdentifier:
+    Android: com.chapiodara.turnodemedianoche
+  AndroidTargetArchitectures: 2
+  AndroidEnableSustainedPerformanceMode: 1
+  resizableWindow: 0
+  runInBackground: 1
+  colorSpace: 0
+  graphicsJobMode: 0
+  stripEngineCode: 1
